@@ -65,7 +65,7 @@ const App = () => {
       <div className="w-[4%] bg-gradient-to-r from-amber-50/50 via-gray-400/30 to-gray-800/80 relative z-10"></div>
       
       <div className="w-[48%] flex items-center justify-center bg-[rgb(28,32,33)] relative z-10">
-        <img src="../public/gruvbox15.png" className="w-4em h-fit scale-85"/>
+        <img src="/gruvbox15.png" className="w-4em h-fit scale-85"/>
       </div>
     </div>
   )
